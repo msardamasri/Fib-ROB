@@ -8,7 +8,7 @@ Pràctiques realitzades a l'assignatura ROB (Robòtica)
 | Nom del membre       | Correu electrònic                       |
 | -------------------- | --------------------------------------- |
 | Sardà Masriera, Marc | marc.sarda.masriera@estudiantat.upc.edu |
-| Farré Burgos, Pol    | pol.farre.burgos@estudiantat.upc.edu    |
+| Puigdemont Plana, Pol| pol.puigdemont@estudiantat.upc.edu      |
 
 ## Com compilar el codi
 
